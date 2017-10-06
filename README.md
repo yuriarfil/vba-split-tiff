@@ -1,2 +1,2 @@
 # vba-split-tiff
-add-ins for split tiff file
+Excel add-ins for split tiff file
